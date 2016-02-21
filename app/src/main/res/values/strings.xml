@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Rastreame</string>
+    <string name="action_settings">Acerca de?</string>
+
+    <!--TODO: TEXT CONTENT ACTIVITY -->
+    <string name="dns">Configuración DNS</string>
+    <string name="message">Configuración del Mesanje</string>
+    <string name="dnsMessage">wwww.server.com/enviar_mensaje</string>
+    <string name="namePhone">Nombre del Telefono</string>
+    <string name="dnsProcessMessage">www.server.com/pedir_mensaje</string>
+    <string name="process">Habilitar o Desabilitar Proceso</string>
+    <string name="device">Configuracíon del Dispositivo</string>
+    <string name="numberDevice">Numero Telefonico</string>
+    <string name="title_activity_main_list">MainList</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="floating">16dp</dimen>
+    <dimen name="elevationFloating">6dp</dimen>
+    <dimen name="elevationCard">4dp</dimen>
+    <dimen name="pressedTranslationZ">12dp</dimen>
+    <dimen name="paddingCard">5dp</dimen>
+    <dimen name="radius">10dp</dimen>
+    <dimen name="marginCard">15dp</dimen>
+    <dimen name="marginCard_left_right">10dp</dimen>
+    <dimen name="marginCard2">25dp</dimen>
+    <dimen name="height">100dp</dimen>
+    <dimen name="height2">50dp</dimen>
+
+
+    <!--TODO: dimens text content activity-->
+    <dimen name="textTitleSize">20sp</dimen>
+    <dimen name="textSize">18sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <!--TODO: dimen idpmage-->
+    <dimen name="bug">48dp</dimen>
+
+</resources>
